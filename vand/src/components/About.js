@@ -13,132 +13,131 @@ class Video extends React.Component {
     {
       name: "A",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/A.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%204.49%20PM.jpg?raw=true",
     },
     {
       name: "B",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/B.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%204.50%20PM.jpg?raw=true",
     },
     {
       name: "C",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/C.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%204.50%20PM%20%232.jpg?raw=true",
     },
     {
       name: "D",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/D.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%204.50%20PM.jpg?raw=true",
     },
     {
       name: "E",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/E.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%204.53%20PM.jpg?raw=true",
     },
     {
       name: "F",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/F.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%204.54%20PM.jpg?raw=true",
     },
     {
       name: "G",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/G.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%204.54%20PM%20%232.jpg?raw=true",
     },
     {
       name: "H",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/H.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%204.55%20PM.jpg?raw=true",
     },
     {
       name: "I",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/I.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%204.56%20PM.jpg?raw=true",
     },
     {
       name: "J",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/J.jpg?raw=true",
+        "https://raw.githubusercontent.com/Jnpalermo/vandyhacks/master/data/Photo%20on%2010-3-20%20at%204.56%20PM.jpg?raw=true",
     },
     {
       name: "K",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/K.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%204.59%20PM.jpg?raw=true",
     },
     {
       name: "L",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/L.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%204.59%20PM%20%233.jpg?raw=true",
     },
     {
       name: "M",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/M.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%205.00%20PM%20%232.jpg?raw=true",
     },
     {
       name: "N",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/N.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%205.01%20PM.jpg?raw=true",
     },
     {
       name: "O",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/O.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%205.02%20PM%20%232.jpg?raw=true",
     },
     {
       name: "P",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/P.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%205.02%20PM.jpg?raw=true",
     },
     {
       name: "Q",
-      image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/Q.jpg?raw=true",
+      image: "?raw=true",
     },
     {
       name: "R",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/R.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%205.02%20PM%20%233.jpg?raw=true",
     },
     {
       name: "S",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/S.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%205.03%20PM.jpg?raw=true",
     },
     {
       name: "T",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/T.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%205.03%20PM%20%232.jpg?raw=true",
     },
     {
       name: "U",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/U.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%205.04%20PM.jpg?raw=true",
     },
     {
       name: "V",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/V.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%205.04%20PM%20%232.jpg?raw=true",
     },
     {
       name: "W",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/W.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%205.04%20PM%20%233.jpg?raw=true",
     },
     {
       name: "X",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/X.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%205.05%20PM.jpg?raw=true",
     },
     {
       name: "Y",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/Y.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%205.06%20PM.jpg?raw=true",
     },
     {
       name: "Z",
       image:
-        "https://github.com/utkarshp21/HackNYU2020/blob/master/Alphabet%20Reference/Z.jpg?raw=true",
+        "https://github.com/Jnpalermo/vandyhacks/blob/master/data/Photo%20on%2010-3-20%20at%205.06%20PM%20%232.jpg?raw=true",
     },
   ];
   constructor(props) {
