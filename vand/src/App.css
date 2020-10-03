@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap");
+
+.text {
+  color: rgb(18, 201, 122);
+  font-size: 1.875rem;
+  padding: 20px;
+  margin-top: 80px;
+  font-family: "EB Garamond", serif;
+}
+
+nav {
+  font-family: "EB Garamond", serif;
+  font-size: 20px;
+  color: green !important;
+}
+
+.sub {
+  font-family: "EB Garamond", serif;
+  font-size: 18px;
+  padding: 15px;
+}
+
+.brand {
+  color: rgb(18, 201, 122);
+}
+
+.navl {
+  color: black !important;
+}
+
+.navl:hover {
+  color: rgb(18, 201, 122) !important;
+}
+
+.float-right {
+  margin-top: 90px !important;
+}
